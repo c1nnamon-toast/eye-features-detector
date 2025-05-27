@@ -1,4 +1,4 @@
-opencv-python 
-pandas 
-numpy 
+opencv-python
+pandas
+numpy
 matplotlib
